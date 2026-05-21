@@ -1,4 +1,5 @@
 # Code Tools MCP Server
+[![MCPize](https://mcpize.com/badge/@qinzhenshuo/code-tools)](https://mcpize.com/mcp/code-tools)
 
 A comprehensive developer utility MCP server providing 12 tools for AI agents and developers.
 
@@ -18,6 +19,17 @@ A comprehensive developer utility MCP server providing 12 tools for AI agents an
 | `color_convert` | Convert between HEX, RGB, HSL color formats |
 | `diff` | Generate line-by-line text diffs |
 | `random` | Generate random numbers, strings, or pick from lists |
+
+## Connect via MCPize
+
+Use this MCP server instantly with no local installation:
+
+```bash
+npx -y mcpize connect @qinzhenshuo/code-tools --client claude
+```
+
+Or connect at: **https://mcpize.com/mcp/code-tools**
+
 
 ## Usage
 
